@@ -1,2 +1,2 @@
-# hello-world
-Hello world new project template.
+# 贪吃蛇小游戏
+基于Cocos游戏引擎开发
